@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\CSharpAlgorithms\CSharpAlgorithms\bin\Debug\net6.0\CSharpAlgorithms.exe
+C:\Users\ASUS\source\repos\CSharpAlgorithms\CSharpAlgorithms\bin\Debug\net6.0\CSharpAlgorithms.deps.json
+C:\Users\ASUS\source\repos\CSharpAlgorithms\CSharpAlgorithms\bin\Debug\net6.0\CSharpAlgorithms.runtimeconfig.json
+C:\Users\ASUS\source\repos\CSharpAlgorithms\CSharpAlgorithms\bin\Debug\net6.0\CSharpAlgorithms.dll
+C:\Users\ASUS\source\repos\CSharpAlgorithms\CSharpAlgorithms\bin\Debug\net6.0\ref\CSharpAlgorithms.dll
+C:\Users\ASUS\source\repos\CSharpAlgorithms\CSharpAlgorithms\bin\Debug\net6.0\CSharpAlgorithms.pdb
+C:\Users\ASUS\source\repos\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\net6.0\CSharpAlgorithms.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\net6.0\CSharpAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\net6.0\CSharpAlgorithms.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\net6.0\CSharpAlgorithms.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\net6.0\CSharpAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\net6.0\CSharpAlgorithms.dll
+C:\Users\ASUS\source\repos\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\net6.0\ref\CSharpAlgorithms.dll
+C:\Users\ASUS\source\repos\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\net6.0\CSharpAlgorithms.pdb
+C:\Users\ASUS\source\repos\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\net6.0\CSharpAlgorithms.genruntimeconfig.cache
