@@ -1,0 +1,15 @@
+D:\Projects\Myself\CSharpAlgorithms\Stack\obj\Debug\net6.0\Stack.csproj.AssemblyReference.cache
+D:\Projects\Myself\CSharpAlgorithms\Stack\obj\Debug\net6.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Myself\CSharpAlgorithms\Stack\obj\Debug\net6.0\Stack.AssemblyInfoInputs.cache
+D:\Projects\Myself\CSharpAlgorithms\Stack\obj\Debug\net6.0\Stack.AssemblyInfo.cs
+D:\Projects\Myself\CSharpAlgorithms\Stack\obj\Debug\net6.0\Stack.csproj.CoreCompileInputs.cache
+D:\Projects\Myself\CSharpAlgorithms\Stack\bin\Debug\net6.0\Stack.exe
+D:\Projects\Myself\CSharpAlgorithms\Stack\bin\Debug\net6.0\Stack.deps.json
+D:\Projects\Myself\CSharpAlgorithms\Stack\bin\Debug\net6.0\Stack.runtimeconfig.json
+D:\Projects\Myself\CSharpAlgorithms\Stack\bin\Debug\net6.0\Stack.dll
+D:\Projects\Myself\CSharpAlgorithms\Stack\bin\Debug\net6.0\ref\Stack.dll
+D:\Projects\Myself\CSharpAlgorithms\Stack\bin\Debug\net6.0\Stack.pdb
+D:\Projects\Myself\CSharpAlgorithms\Stack\obj\Debug\net6.0\Stack.dll
+D:\Projects\Myself\CSharpAlgorithms\Stack\obj\Debug\net6.0\ref\Stack.dll
+D:\Projects\Myself\CSharpAlgorithms\Stack\obj\Debug\net6.0\Stack.pdb
+D:\Projects\Myself\CSharpAlgorithms\Stack\obj\Debug\net6.0\Stack.genruntimeconfig.cache
