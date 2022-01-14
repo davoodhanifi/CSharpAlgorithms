@@ -15,7 +15,27 @@
       "ProjectGuid": "eaa2ce5e-8b4e-43de-b416-fc6f8f57dd09",
       "DisplayName": "LinkedList",
       "ColorIndex": 1
+    },
+    "dec6df24-5e0c-4757-a8bf-1b374eaa11e8": {
+      "ProjectGuid": "dec6df24-5e0c-4757-a8bf-1b374eaa11e8",
+      "DisplayName": "LinkedList",
+      "ColorIndex": 2
+    },
+    "1c436026-9adf-4e79-9f25-9a12d5adb99a": {
+      "ProjectGuid": "1c436026-9adf-4e79-9f25-9a12d5adb99a",
+      "DisplayName": "Stack",
+      "ColorIndex": 3
+    },
+    "503784cc-fca4-4aa8-b215-89f88edb77a2": {
+      "ProjectGuid": "503784cc-fca4-4aa8-b215-89f88edb77a2",
+      "DisplayName": "Queue",
+      "ColorIndex": 4
+    },
+    "6534e2dc-d2bd-4298-a698-b28263f9bfbc": {
+      "ProjectGuid": "6534e2dc-d2bd-4298-a698-b28263f9bfbc",
+      "DisplayName": "BinarySearch",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 6
 }

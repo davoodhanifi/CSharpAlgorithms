@@ -1,0 +1,14 @@
+D:\Projects\Myself\CSharpAlgorithms\LinearSearch\bin\Debug\net6.0\LinearSearch.exe
+D:\Projects\Myself\CSharpAlgorithms\LinearSearch\bin\Debug\net6.0\LinearSearch.deps.json
+D:\Projects\Myself\CSharpAlgorithms\LinearSearch\bin\Debug\net6.0\LinearSearch.runtimeconfig.json
+D:\Projects\Myself\CSharpAlgorithms\LinearSearch\bin\Debug\net6.0\LinearSearch.dll
+D:\Projects\Myself\CSharpAlgorithms\LinearSearch\bin\Debug\net6.0\ref\LinearSearch.dll
+D:\Projects\Myself\CSharpAlgorithms\LinearSearch\bin\Debug\net6.0\LinearSearch.pdb
+D:\Projects\Myself\CSharpAlgorithms\LinearSearch\obj\Debug\net6.0\LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Myself\CSharpAlgorithms\LinearSearch\obj\Debug\net6.0\LinearSearch.AssemblyInfoInputs.cache
+D:\Projects\Myself\CSharpAlgorithms\LinearSearch\obj\Debug\net6.0\LinearSearch.AssemblyInfo.cs
+D:\Projects\Myself\CSharpAlgorithms\LinearSearch\obj\Debug\net6.0\LinearSearch.csproj.CoreCompileInputs.cache
+D:\Projects\Myself\CSharpAlgorithms\LinearSearch\obj\Debug\net6.0\LinearSearch.dll
+D:\Projects\Myself\CSharpAlgorithms\LinearSearch\obj\Debug\net6.0\ref\LinearSearch.dll
+D:\Projects\Myself\CSharpAlgorithms\LinearSearch\obj\Debug\net6.0\LinearSearch.pdb
+D:\Projects\Myself\CSharpAlgorithms\LinearSearch\obj\Debug\net6.0\LinearSearch.genruntimeconfig.cache
