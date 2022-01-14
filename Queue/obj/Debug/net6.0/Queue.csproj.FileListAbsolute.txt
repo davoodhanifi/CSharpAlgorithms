@@ -1,0 +1,15 @@
+D:\Projects\Myself\CSharpAlgorithms\Queue\bin\Debug\net6.0\Queue.exe
+D:\Projects\Myself\CSharpAlgorithms\Queue\bin\Debug\net6.0\Queue.deps.json
+D:\Projects\Myself\CSharpAlgorithms\Queue\bin\Debug\net6.0\Queue.runtimeconfig.json
+D:\Projects\Myself\CSharpAlgorithms\Queue\bin\Debug\net6.0\Queue.dll
+D:\Projects\Myself\CSharpAlgorithms\Queue\bin\Debug\net6.0\ref\Queue.dll
+D:\Projects\Myself\CSharpAlgorithms\Queue\bin\Debug\net6.0\Queue.pdb
+D:\Projects\Myself\CSharpAlgorithms\Queue\obj\Debug\net6.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Myself\CSharpAlgorithms\Queue\obj\Debug\net6.0\Queue.AssemblyInfoInputs.cache
+D:\Projects\Myself\CSharpAlgorithms\Queue\obj\Debug\net6.0\Queue.AssemblyInfo.cs
+D:\Projects\Myself\CSharpAlgorithms\Queue\obj\Debug\net6.0\Queue.csproj.CoreCompileInputs.cache
+D:\Projects\Myself\CSharpAlgorithms\Queue\obj\Debug\net6.0\Queue.dll
+D:\Projects\Myself\CSharpAlgorithms\Queue\obj\Debug\net6.0\ref\Queue.dll
+D:\Projects\Myself\CSharpAlgorithms\Queue\obj\Debug\net6.0\Queue.pdb
+D:\Projects\Myself\CSharpAlgorithms\Queue\obj\Debug\net6.0\Queue.genruntimeconfig.cache
+D:\Projects\Myself\CSharpAlgorithms\Queue\obj\Debug\net6.0\Queue.csproj.AssemblyReference.cache
