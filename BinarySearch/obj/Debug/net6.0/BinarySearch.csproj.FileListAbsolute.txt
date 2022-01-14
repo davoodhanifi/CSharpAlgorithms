@@ -1,0 +1,15 @@
+D:\Projects\Myself\CSharpAlgorithms\BinarySearch\bin\Debug\net6.0\BinarySearch.exe
+D:\Projects\Myself\CSharpAlgorithms\BinarySearch\bin\Debug\net6.0\BinarySearch.deps.json
+D:\Projects\Myself\CSharpAlgorithms\BinarySearch\bin\Debug\net6.0\BinarySearch.runtimeconfig.json
+D:\Projects\Myself\CSharpAlgorithms\BinarySearch\bin\Debug\net6.0\BinarySearch.dll
+D:\Projects\Myself\CSharpAlgorithms\BinarySearch\bin\Debug\net6.0\ref\BinarySearch.dll
+D:\Projects\Myself\CSharpAlgorithms\BinarySearch\bin\Debug\net6.0\BinarySearch.pdb
+D:\Projects\Myself\CSharpAlgorithms\BinarySearch\obj\Debug\net6.0\BinarySearch.csproj.AssemblyReference.cache
+D:\Projects\Myself\CSharpAlgorithms\BinarySearch\obj\Debug\net6.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Myself\CSharpAlgorithms\BinarySearch\obj\Debug\net6.0\BinarySearch.AssemblyInfoInputs.cache
+D:\Projects\Myself\CSharpAlgorithms\BinarySearch\obj\Debug\net6.0\BinarySearch.AssemblyInfo.cs
+D:\Projects\Myself\CSharpAlgorithms\BinarySearch\obj\Debug\net6.0\BinarySearch.csproj.CoreCompileInputs.cache
+D:\Projects\Myself\CSharpAlgorithms\BinarySearch\obj\Debug\net6.0\BinarySearch.dll
+D:\Projects\Myself\CSharpAlgorithms\BinarySearch\obj\Debug\net6.0\ref\BinarySearch.dll
+D:\Projects\Myself\CSharpAlgorithms\BinarySearch\obj\Debug\net6.0\BinarySearch.pdb
+D:\Projects\Myself\CSharpAlgorithms\BinarySearch\obj\Debug\net6.0\BinarySearch.genruntimeconfig.cache
